@@ -1,0 +1,7 @@
+spotipy
+pycryptodomex
+pycryptodome
+loguru
+boto3
+pyspark==3.3.2
+findspark
