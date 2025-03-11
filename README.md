@@ -8,6 +8,8 @@ This project is an **ETL (Extract, Transform, Load) pipeline** for **Spotify pla
 - **Loading** the transformed data into **AWS S3** for further analysis  
 
 ---
+![Spotify Etl Pipeline](https://github.com/shivatadha/Spotify-ETL-Pipeline-using-Apache-Airflow/blob/185bebdc5dfabe069a4d1e80217d9a3d08345b0a/Spotify%20etl%20pipeline.png)
+---
 
 ## 🚀 **Features**  
 
